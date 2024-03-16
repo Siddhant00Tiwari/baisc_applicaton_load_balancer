@@ -45,3 +45,7 @@ http and https is only enabled from load balancer security group
 ### Then well search for our load balancer
 
 [16.03.2024_15.41.15_REC.mp4](https://github.com/Siddhant00Tiwari/baisc_applicaton_load_balancer/blob/c344842fec941a0162189c7c829e93a474d27fb8/16.03.2024_15.41.15_REC.mp4)
+
+
+https://github.com/Siddhant00Tiwari/baisc_applicaton_load_balancer/assets/110492372/8c98d1e1-7f4a-49f6-8577-671ccfb7237a
+
